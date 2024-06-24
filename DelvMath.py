@@ -3,7 +3,7 @@ import time
 pi=3.14159265358
 print("Creator : DelvCH")
 print("v1.0.1")
-print("Lastest update 6/14/2024:")
+print("Latest update 6/14/2024:")
 print("-Bugs fixed")
 def changelog():
     print("--------------------")
