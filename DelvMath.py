@@ -3,7 +3,7 @@ import time
 #//Creator : DelvCH
 print("Creator : DelvCH")
 print("v1.1")
-print("Lastest update 6/24/2024:")
+print("Latest update 6/24/2024:")
 print("-Added Quadratic Formula Calculator")
 print("-Support Decimal number")
 print("-Bugs fixed")
